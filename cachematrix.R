@@ -11,7 +11,7 @@
 ##      getInverse(inverse matrix): get the cached Inverse of X      
 ## }
 ## Initialize the special matrix which can cache the solution of its
-## inverse.
+## inverse. 
 
 makeCacheMatrix <- function(x = matrix())
 {
